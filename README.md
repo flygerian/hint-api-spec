@@ -6,7 +6,7 @@ API specification for the hint API
 <br>
 <br>
 
-## Authetication
+## Authentication
 <br>
 I'm going to send the API key as an Authorization header in the Http request on every request
 
